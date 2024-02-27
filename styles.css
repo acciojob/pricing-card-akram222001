@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+#container{
+	background-color:#f1f1f1;
+	width:50%;
+	height:100vh;
+	padding:40px;
+	margin:100px;
+	box-shadow:always;
+}
+#container img{
+	width:100%
+}
+.text{
+	text-align:center;
+}
+
+.text button{
+	background-color:red;
+	padding:20px;
+	margin:40px;
+	border-radius:20px;
+	color:white;
+	font-size:24px;
+}
